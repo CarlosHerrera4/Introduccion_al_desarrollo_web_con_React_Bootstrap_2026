@@ -1,0 +1,21 @@
+h6 {
+    color: green;
+    /*color: rgb(22,55,66, 0.5);*/
+    font-size: 44px;
+}
+
+/* Selectores por identificador */
+#parrafo1 {
+    color: olivedrab
+}
+
+#parrafo2 {
+    font-weight: bold;
+}
+
+/* Selectores por clases */
+.claseparrafo {
+    font-size:20px;
+    font-family: 'Segoe UI';
+    line-height: 2;
+}
